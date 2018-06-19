@@ -10,19 +10,19 @@
 
 <body>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="input-group">
-                    <span class="input-group-btn">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="input-group">
+                <span class="input-group-btn">
                         <button class="btn btn-default" type="button">Go!</button>
                     </span>
-                    <input type="text" class="form-control" placeholder="Search for...">
-                </div>
+                <input type="text" class="form-control" placeholder="Search for...">
             </div>
-            <div class="col-lg-6"></div>
         </div>
+        <div class="col-lg-6"></div>
     </div>
+</div>
 
     <!--
                 <table class="table table-bordered table-striped">
@@ -70,9 +70,11 @@
                     </tbody>
                 </table>
 -->
+<!--
     </div>
     </div>
     </div>
+-->
 
 
 
