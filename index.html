@@ -23,20 +23,51 @@
             <div class="col-sm-6">
                 <div class="input-group">
                     <span class="input-group-btn">
-                        <button class="btn btn-default" type="button">Go!</button>
+                        <button class="btn" type="button">Go!</button>
                     </span>
-                    <input type="text" class="form-control" placeholder="Search for...">
+                    <input type="text" name="search" class="form-control" placeholder="Search A Project...">
                 </div>
             </div>
             <div class="col-sm-3"></div>
         </div>
+        <br /><br />
+        <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
+                <ul class="list-group" id="result"></ul>
+            </div>
+            <div class="sol-sm-2"></div>
+        </div>
     </div>
 
 
+    <script>
+        $(document).ready(function() {
+            $.ajaxSetup({
+                cache: false
+            });
+            $('#search').keyup(function() {
+                var searchField = $('#search').val();
+                var expression = new RegExp(searchField, "i");
+                $.getJSON('jobs.json', function(data) {
+                    $.each(data, function(key, value) {
+                        if (value.name.search(expression) != -1 || value.location.search(expression) != -1) {
+                            $('#result').append('<li class="list-group-item link-class"> '+value.Job_No+' | <span class="text-muted"> '+value.Project+'</span>'+' | <span class="text-muted"> '+value.Address+'</span>'+' | <span class="text-muted"> '+value.Permit+'</span>'+' | <span class="text-muted"> '+value.Contractor+'</span>'+' | <span class="text-muted"> '+value.Phone+'</span>'+' | <span class="text-muted"> '+value.Manager+'</span></li>');
+                        }
+                    });
+                });
+            });
 
+            $('#result').on('click', 'li', function() {
+                var click_text = $(this).text().split('|');
+                $('#search').val($.trim(click_text[0]));
+            });
+        });
+    </script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
 </body>
 
 </html>
+

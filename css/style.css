@@ -2,6 +2,27 @@
     background-color: #1c2847;
 }
 
+.btn {
+    color :white;
+    background-color: #1c2847;
+}
+
+.form-control {
+    padding-left: 15px;
+}
+
+.btn:hover {
+    background-color: #a0caf0;
+}
+
+#result {
+    position: absolute;
+    width: 100%;
+    cursor: pointer;
+    overflow-y: auto;
+    z-index: 1001;
+}
+
 #searchbar {
     padding-top: 13px;
 }
