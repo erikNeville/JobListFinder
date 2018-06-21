@@ -10,7 +10,6 @@ function searchJob() {
                     output += "<tr>";
                     output += "<td project='" + key + "'>" + val.project + "</td>";
                     output += "<td project='" + key + "'>" + val.job_no + "</td>";
-                    // output += "<td project='" + key + "'>" + val.address + "</td>";
                     output += "<th project='"+ key + "'>" + "<a href='" + googleadd + val.address + "'>" + val.address + "</a></th>";
                     output += "<td project='" + key + "'>" + val.permit + "</td>";
                     output += "<td project='" + key + "'>" + val.contractor + "</td>";
