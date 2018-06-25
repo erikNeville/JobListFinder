@@ -3,6 +3,7 @@
     background-color: #1a274a;
     background-repeat: no-repeat;
     background-position: center;
+    position: fixed;
 }
 
 .h1 {
