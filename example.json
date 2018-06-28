@@ -1,0 +1,29 @@
+[
+    {
+        "project": "ABC School",
+        "job_no": "20-3268",
+        "address": "822 NE 62nd St, Seattle",
+        "permit": "12345678",
+        "contractor": "Big Contractor Guys",
+        "phone": "(555) 505-5055",
+        "manager": "Bret"
+ },
+    {
+        "project": "Johns House",
+        "job_no": "20-3220",
+        "address": "708 N 35th Street, Seattle",
+        "permit": "12321232",
+        "contractor": "Big Contractor Guys",
+        "phone": "(505) 505-6666",
+        "manager": "Colin"
+ },
+    {
+        "project": "West Side Mall",
+        "job_no": "20-0051",
+        "address": "127 NW Bowdoin Place, Seattle",
+        "permit": "87654321",
+        "contractor": "Mac and Cheese",
+        "phone": "(888) 588-5888",
+        "manager": "Marvin"
+ }
+]
