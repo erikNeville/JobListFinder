@@ -9,8 +9,18 @@
     text-transform: capitalize;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 .display-4 {
     font-weight: 600;
     font-size: 2.5em;
-    text-transform:uppercase;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 12px;
+    }
 }
