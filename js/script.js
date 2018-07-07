@@ -1,6 +1,6 @@
 function searchJob() {
     $('#search').keyup(function () {
-        $.getJSON("example.json", function (data) {
+        $.getJSON("projectjson.json", function (data) {
             var search = $('#search').val();
             var regex = new RegExp(search, 'i');
             var output;
@@ -9,7 +9,7 @@ function searchJob() {
                 if ((val.project.search(regex) != -1)) {
                     output += "<tr>";
                     output += "<td project='" + key + "'>" + val.project + "</td>";
-                    output += "<td project='" + key + "'>" + "<a id='number' href='concrete.html'>" + val.job_no + "</a></td>";
+                    output += "<td project='" + key + "'>" + "<a id='number' href='concrete.html' onclick='storeJobNo()'>" + val.job_no + "</a></td>";
                     output += "<td project='" + key + "'>" + "<a href='" + googleadd + val.address + "'>" + val.address + "</a></td>";
                     output += "<td project='" + key + "'>" + val.permit + "</td>";
                     output += "<td project='" + key + "'>" + val.contractor + "</td>";
@@ -23,18 +23,31 @@ function searchJob() {
     });
 }
 
-function concreteForm() {
-    $('#number').onload(function() {
-        $.getJSON("example.json", function (data) {
-            var num = $('#number').val();
-            var regex = new RegExp(num, 'i');
-            var output;
-            $.each(data, function (key, val) {
-                if ((val.job_no.num(regex) != -1)) {
-                    output += "<tr>";
-                    output += "<td Job Number='" + key + "'>" + val.job_no + "</td>";
-                }
-            })
-        });
-    });
+document.getElementById("number").onclick = function () {
+    fillForm()
+};
+
+
+function createCookie(jobno, value, days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        var expires = "; expires=" + date.toGMTString();
+    } else var expires = "";
+    document.cookie = jobno + "=" + value + expires + "; path=/";
+}
+
+function readCookie(jobno) {
+    var jobnoEQ = jobno + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+        if (c.indexOf(jobnoEQ) == 0) return c.substring(jobnoEQ.length, c.length);
+    }
+    return null;
+}
+
+function eraseCookie(jobno) {
+    createCookie(jobno, "", -1);
 }
