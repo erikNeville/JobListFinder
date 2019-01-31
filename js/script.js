@@ -13,8 +13,8 @@ function searchJob() {
                     output += "<td project='" + key + "'>" + "<a href='" + googleadd + val.address + "'>" + val.address + "</a></td>";
                     output += "<td project='" + key + "'>" + val.permit + "</td>";
                     output += "<td project='" + key + "'>" +  val.contractor + "</td>";
-                    output += "<td project='" + key + "'>" + "<a href=''>" + val.phone + "</a></td>";
-                    output += "<td project='" + key + "'>" + val.manager + "</td>";
+                    output += "<td project='" + key + "'>" + "<a href='tel:" + val.phone + "'>" + val.phone + "</a></td>";
+                    output += "<td project='" + key + "'>" + val.manager + "</td>"; 
                     output += "</tr>";
                 }
             });
