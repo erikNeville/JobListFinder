@@ -12,8 +12,8 @@ function searchJob() {
                     output += "<td project='" + key + "'>" + "<a id='number' href='concrete.html' onclick='storeJobNo()'>" + val.job_no + "</a></td>";
                     output += "<td project='" + key + "'>" + "<a href='" + googleadd + val.address + "'>" + val.address + "</a></td>";
                     output += "<td project='" + key + "'>" + val.permit + "</td>";
-                    output += "<td project='" + key + "'>" + val.contractor + "</td>";
-                    output += "<td project='" + key + "'>" + val.phone + "</td>";
+                    output += "<td project='" + key + "'>" +  val.contractor + "</td>";
+                    output += "<td project='" + key + "'>" + "<a href=''>" + val.phone + "</a></td>";
                     output += "<td project='" + key + "'>" + val.manager + "</td>";
                     output += "</tr>";
                 }
