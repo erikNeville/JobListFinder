@@ -1,37 +1,19 @@
 [
   {
-    "job_no": "19-0096",
-    "project": "#18002",
-    "address": "357 NW 77th St, Seattle",
-    "permit": "6652338-CN",
-    "contractor": "Sage Homes N.W.",
-    "phone": "(206) 660-3446",
-    "manager": "Isaac"
-  },
-  {
     "job_no": "18-0886",
     "project": "113 Row Houses",
     "address": "1340 14th Avenue S, Seattle",
     "permit": 6615859,
-    "contractor": "Green City Development, L",
+    "contractor": "Green City Development, LL",
     "phone": "(206) 378-8590",
     "manager": "Isaac"
-  },
-  {
-    "job_no": "19-0072",
-    "project": "1201 Alaskan Way Video Survey & Crack M",
-    "address": "1201 Alaskan Way, Seattle",
-    "permit": "",
-    "contractor": "Martin Smith, Inc.",
-    "phone": "",
-    "manager": "Jeff"
   },
   {
     "job_no": "17-0260",
     "project": "1222 NE 65th Street",
     "address": "1222 NE 65th Street, Seattle",
     "permit": 6538040,
-    "contractor": "Blueprint Capital Services,",
+    "contractor": "Blueprint Capital Services, L",
     "phone": "(425) 530-6061",
     "manager": "Jeff"
   },
@@ -91,7 +73,7 @@
   },
   {
     "job_no": "18-0983",
-    "project": "2018 Arterial Asphalt and Concrete, Packag",
+    "project": "2018 Arterial Asphalt and Concrete, Package",
     "address": "Beacon Hill, Various Locations, Seattle",
     "permit": "",
     "contractor": "KC Equipment",
@@ -157,7 +139,7 @@
     "project": "2361 Minor Avenue East (Nest Project)",
     "address": "2361 Minor Ave E, Seattle",
     "permit": "6605757-CN",
-    "contractor": "Versatile Drilling contractor",
+    "contractor": "Versatile Drilling contractors",
     "phone": "(206) 478-0450",
     "manager": "Jeff"
   },
@@ -166,7 +148,7 @@
     "project": "2371 Minor Avenue East (Nest Project)",
     "address": "2371 Minor Ave E, Seattle",
     "permit": "6605758-CN",
-    "contractor": "Versatile Drilling contractor",
+    "contractor": "Versatile Drilling contractors",
     "phone": "(206) 478-0450",
     "manager": "Jeff"
   },
@@ -198,15 +180,6 @@
     "manager": "Scott"
   },
   {
-    "job_no": "19-0076",
-    "project": "2521 NW 92nd Residence",
-    "address": "2521 NW 92nd St, Seattle",
-    "permit": "6604128-CN",
-    "contractor": "NW Contour Building Comp",
-    "phone": "(425) 766-9815",
-    "manager": "Jeff"
-  },
-  {
     "job_no": "18-0465",
     "project": "2525 NE 82nd Street",
     "address": "2525 NE 82nd St, Seattle",
@@ -217,7 +190,7 @@
   },
   {
     "job_no": "18-0898",
-    "project": "26' Ballast Deck Approach Span and Open",
+    "project": "26' Ballast Deck Approach Span and Open D",
     "address": "@ Rainier Welding, Redmond",
     "permit": "",
     "contractor": "",
@@ -226,7 +199,7 @@
   },
   {
     "job_no": "17-0908b",
-    "project": "26th Avenue Townhomes – 119 Lot",
+    "project": "26th Avenue Townhomes - 119 Lot",
     "address": "119 26th Avenue East, Seattle",
     "permit": 6577054,
     "contractor": "C A James",
@@ -235,7 +208,7 @@
   },
   {
     "job_no": "17-0908c",
-    "project": "26th Avenue Townhomes – 123 Lot",
+    "project": "26th Avenue Townhomes - 123 Lot",
     "address": "123 26th Avenue East, Seattle",
     "permit": 6575734,
     "contractor": "C A James",
@@ -262,7 +235,7 @@
   },
   {
     "job_no": "17-0235",
-    "project": "3050 SW Avalon Way (Avalon Ave Micro H",
+    "project": "3050 SW Avalon Way (Avalon Ave Micro Ho",
     "address": "3050 SW Avalon Way, Seattle",
     "permit": 6327295,
     "contractor": "McDowell Northwest, Inc.",
@@ -281,7 +254,7 @@
   {
     "job_no": "19-0059",
     "project": "3303 31st Avenue SW",
-    "address": "3303 31st Ave SW, Seattle",
+    "address": "3303 31sts Ave SW, Seattle",
     "permit": "",
     "contractor": "",
     "phone": "",
@@ -297,15 +270,6 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "19-0084",
-    "project": "3408 East Laurelhurst Drive NE",
-    "address": "3408 E Laurelhurst Dr NE, Seattle",
-    "permit": "",
-    "contractor": "",
-    "phone": "",
-    "manager": "Scott"
-  },
-  {
     "job_no": "18-0655",
     "project": "34307 SE 270th Street",
     "address": "34307 SE 270th Street, Ravensdale",
@@ -319,7 +283,7 @@
     "project": "3617 73rd Avenue SE",
     "address": "3617 73rd Ave SE, Mercer Island",
     "permit": 1704207,
-    "contractor": "Green City Development, L",
+    "contractor": "Green City Development, LL",
     "phone": "(206) 437-8590",
     "manager": "Jeff"
   },
@@ -374,7 +338,7 @@
     "address": "500 Pacific Avenue, Bremerton",
     "permit": "BB17-00270",
     "contractor": "Applied Restoration Inc.",
-    "phone": "360 359 8511",
+    "phone": 3603598511,
     "manager": "Isaac"
   },
   {
@@ -403,15 +367,6 @@
     "contractor": "Build Love Global, LLC",
     "phone": "(206) 579-1575",
     "manager": "Walter"
-  },
-  {
-    "job_no": "19-0066",
-    "project": "52nd Place Residence",
-    "address": "8720 SE 52nd Place, Mercer Island",
-    "permit": "1702-059",
-    "contractor": "Build Urban, LLC",
-    "phone": "",
-    "manager": "Jeff"
   },
   {
     "job_no": "18-1042",
@@ -497,7 +452,7 @@
   {
     "job_no": "18-0416",
     "project": "6th Street Signal Projects",
-    "address": "6th St & 9th St and 9th St & Kirkland Way, Kirk",
+    "address": "6th St & 9th St and 9th St & Kirkland Way, Kirkl",
     "permit": "",
     "contractor": "Johansen Excavating, Inc.",
     "phone": "",
@@ -511,15 +466,6 @@
     "contractor": "",
     "phone": "",
     "manager": "Anthony"
-  },
-  {
-    "job_no": "19-0073",
-    "project": "701 Apartments",
-    "address": "701 16th Ave, Seattle",
-    "permit": "6554864-CN",
-    "contractor": "Rush Commercial Construct",
-    "phone": "",
-    "manager": "Walter"
   },
   {
     "job_no": "18-0600",
@@ -603,19 +549,10 @@
     "manager": "Jeff"
   },
   {
-    "job_no": "19-0085",
-    "project": "ACD Building C",
-    "address": "10007 234th Avenue East, Bonney Lake",
-    "permit": "BLD-2018-08624",
-    "contractor": "Auburn Commercial Develo",
-    "phone": "(253) 261-8832",
-    "manager": "Walter"
-  },
-  {
     "job_no": "18-0476",
     "project": "ACD Building D",
     "address": "9900 234th Avenue, Bonney Lake",
-    "permit": 8113,
+    "permit": "08113",
     "contractor": "Auburn Commercial Develo",
     "phone": "(253) 261-8832",
     "manager": "Walter"
@@ -649,20 +586,19 @@
   },
   {
     "job_no": "18-0295",
-    "project": "Airport Dining & Retail Infrastructure Modific",
+    "project": "Airport Dining & Retail Infrastructure Modifica",
     "address": "Central Terminal, SeaTac International Airport,",
-    "Travel": 0,
-    "permit": "17 10539",
-    "contractor": "Osborne Construction Com",
+    "permit": 1710539,
+    "contractor": "Osborne Construction Comp",
     "phone": "(425) 553-5347",
     "manager": "Isaac"
   },
   {
     "job_no": "18-0295a",
-    "project": "Airport Dining & Retail Infrastructure Modific",
+    "project": "Airport Dining & Retail Infrastructure Modifica",
     "address": "Central Terminal, SeaTac International Airport,",
     "permit": "17-10540",
-    "contractor": "Osborne Construction Com",
+    "contractor": "Osborne Construction Comp",
     "phone": "(425) 736-9319",
     "manager": "Isaac"
   },
@@ -671,7 +607,7 @@
     "project": "Alan Dishlip Residence",
     "address": "1944 NW Blue Ridge Drive, Seattle",
     "permit": "6621080-CN",
-    "contractor": "McDowell NW Pile King, Inc",
+    "contractor": "McDowell NW Pile King, Inc.",
     "phone": "(206) 386-1026",
     "manager": "Isaac"
   },
@@ -732,7 +668,7 @@
   {
     "job_no": "18-0920",
     "project": "Anthropoligie Store",
-    "address": "2520 NE University Village St, Suite 120, Seatt",
+    "address": "2520 NE University Village St, Suite 120, Seattl",
     "permit": "",
     "contractor": "Action Special Inspections",
     "phone": "(503) 381-6329",
@@ -758,7 +694,7 @@
   },
   {
     "job_no": "18-0184",
-    "project": "Auto Nation Mercedes-Benz of Bellevue - H",
+    "project": "Auto Nation Mercedes-Benz of Bellevue - HB",
     "address": "11850 Bel-Red Road, Bellevue",
     "permit": "",
     "contractor": "",
@@ -785,7 +721,7 @@
   },
   {
     "job_no": "18-0385",
-    "project": "B-26 Renovation Health and Life Sciences",
+    "project": "B-26 Renovation Health and Life Sciences B",
     "address": "2400 S. 240th Street, Des Moines",
     "permit": "BLD2017-0383",
     "contractor": "Pease Construction, Inc.",
@@ -807,7 +743,7 @@
     "address": "20029 19th Avenue NE, Shoreline",
     "permit": "COM17-0037",
     "contractor": "JPR Construction, Inc.",
-    "phone": "(425) 343-7157",
+    "phone": "(425) 876-0265",
     "manager": "Walter"
   },
   {
@@ -824,7 +760,7 @@
     "project": "Baty Residence",
     "address": "6435 NE Windermere Road, Seattle",
     "permit": 6574420,
-    "contractor": "Joseph McKinstry Construct",
+    "contractor": "Joseph McKinstry Constructi",
     "phone": "",
     "manager": "Jeff"
   },
@@ -884,7 +820,7 @@
   },
   {
     "job_no": "17-0979a",
-    "project": "Bellevue BMW – Braced Frames TI",
+    "project": "Bellevue BMW - Braced Frames TI",
     "address": "11959 Northup Way, Bellevue",
     "permit": "18-102931 BZ",
     "contractor": "Foushee and Associates, In",
@@ -965,7 +901,7 @@
   },
   {
     "job_no": "18-0428a",
-    "project": "Block 25E TI - levels 1, 1.5, 6 Tenant Impro",
+    "project": "Block 25E TI - levels 1, 1.5, 6 Tenant Improv",
     "address": "630 Boren Avenue, Seattle",
     "permit": 6552571,
     "contractor": "GLY Construction, Inc.",
@@ -974,7 +910,7 @@
   },
   {
     "job_no": "18-0428",
-    "project": "Block 25E TI - levels 3-6 Alterations and Sta",
+    "project": "Block 25E TI - levels 3-6 Alterations and Stai",
     "address": "630 Boren Avenue North, Seattle",
     "permit": 6620209,
     "contractor": "GLY Construction, Inc.",
@@ -988,24 +924,6 @@
     "permit": 6528917,
     "contractor": "GLY Construction, Inc.",
     "phone": "(425) 998-3879",
-    "manager": "Jeff"
-  },
-  {
-    "job_no": "18-0427",
-    "project": "Block 25W TI - Google Level 2-6",
-    "address": "630 Boren Avenue North, Seattle",
-    "permit": 6643847,
-    "contractor": "GLY Construction, Inc.",
-    "phone": "",
-    "manager": "Jeff"
-  },
-  {
-    "job_no": "18-0427a",
-    "project": "Block 25W TI - Lecture Room at level 1",
-    "address": "630 Boren Avenue North, Seattle",
-    "permit": 6552573,
-    "contractor": "GLY Construction, Inc.",
-    "phone": "",
     "manager": "Jeff"
   },
   {
@@ -1040,7 +958,7 @@
     "project": "Block 47",
     "address": "910 John Street, Seattle",
     "permit": 6462238,
-    "contractor": "WG Clark Construction Co",
+    "contractor": "WG Clark Construction Com",
     "phone": "(206) 255-7038",
     "manager": "Jeff"
   },
@@ -1067,7 +985,7 @@
     "project": "Boeing - Airplane Stall Expansion A6",
     "address": "6505 Perimeter Road South, Seattle",
     "permit": "",
-    "contractor": "Gary Merlino Construction",
+    "contractor": "Gary Merlino Construction C",
     "phone": "(206) 255-2623",
     "manager": "Walter"
   },
@@ -1103,16 +1021,16 @@
     "project": "Boeing - Bldg. 17-06 Spar Check Fixtures -",
     "address": "Bldg. 17-06, Auburn",
     "permit": "",
-    "contractor": "Clements General Construc",
+    "contractor": "Clements General Construct",
     "phone": "",
     "manager": "Walter"
   },
   {
     "job_no": "16-0009",
-    "project": "Boeing - Bldg. 17-07 Dual Gantry Foundatio",
+    "project": "Boeing - Bldg. 17-07 Dual Gantry Foundation",
     "address": "Bldg. 17-07, Auburn",
     "permit": "",
-    "contractor": "Advanced Technology Cons",
+    "contractor": "Advanced Technology Const",
     "phone": "(360) 515-6206",
     "manager": "Walter"
   },
@@ -1121,16 +1039,16 @@
     "project": "Boeing - Bldg. 17-07 Install Generator",
     "address": "Bldg. 17-07, Auburn",
     "permit": "",
-    "contractor": "Clements General Construc",
+    "contractor": "Clements General Construct",
     "phone": "",
     "manager": "Walter"
   },
   {
     "job_no": "18-1019",
-    "project": "Boeing - Bldg. 17-08 E-Coat Process Tank",
+    "project": "Boeing - Bldg. 17-08 E-Coat Process Tank H",
     "address": "Bldg. 17-08, Auburn",
     "permit": "",
-    "contractor": "Clements General Construc",
+    "contractor": "Clements General Construct",
     "phone": "(206) 391-7671",
     "manager": "Walter"
   },
@@ -1148,13 +1066,13 @@
     "project": "Boeing - Bldg. 17-08 Robot Relocation",
     "address": "Bldg. 17-08, Auburn",
     "permit": "",
-    "contractor": "Clements General Construc",
+    "contractor": "Clements General Construct",
     "phone": "(206) 255-1034",
     "manager": "Walter"
   },
   {
     "job_no": "19-0004",
-    "project": "Boeing - Bldg. 17-10 Detrex Clean Line Rep",
+    "project": "Boeing - Bldg. 17-10 Detrex Clean Line Repl",
     "address": "Bldg. 17-10, Auburn",
     "permit": "",
     "contractor": "",
@@ -1172,7 +1090,7 @@
   },
   {
     "job_no": "18-0946",
-    "project": "Boeing - Bldg. 17-10 Install Four Walter Gri",
+    "project": "Boeing - Bldg. 17-10 Install Four Walter Grin",
     "address": "Bldg. 17-10, Auburn",
     "permit": "",
     "contractor": "Omega General contractors",
@@ -1189,17 +1107,8 @@
     "manager": "Walter"
   },
   {
-    "job_no": "19-0088",
-    "project": "Boeing - Bldg. 17-10 Temporary Robot Insta",
-    "address": "Building 17-10, Auburn",
-    "permit": "",
-    "contractor": "",
-    "phone": "",
-    "manager": "Walter"
-  },
-  {
     "job_no": "18-0947",
-    "project": "Boeing - Bldg. 17-12 PSCC / Moonshine Ph",
+    "project": "Boeing - Bldg. 17-12 PSCC / Moonshine Pha",
     "address": "Bldg. 17-12, Auburn",
     "permit": "",
     "contractor": "Omega Riggers & Erectors",
@@ -1220,7 +1129,7 @@
     "project": "Boeing - Bldg. 17-45 IAS LMS Work Cell",
     "address": "Bldg. 17-45, Auburn",
     "permit": "TEN18-0143",
-    "contractor": "Clements General Construc",
+    "contractor": "Clements General Construct",
     "phone": "(206) 391-7671",
     "manager": "Walter"
   },
@@ -1235,10 +1144,10 @@
   },
   {
     "job_no": "18-1082",
-    "project": "Boeing - Bldg. 17-45 Penetrant Booth Fall P",
+    "project": "Boeing - Bldg. 17-45 Penetrant Booth Fall Pr",
     "address": "Building 17-45, Auburn",
     "permit": "(pending)",
-    "contractor": "Clements General Construc",
+    "contractor": "Clements General Construct",
     "phone": "(206) 793-5326",
     "manager": "Walter"
   },
@@ -1262,16 +1171,16 @@
   },
   {
     "job_no": "18-0980",
-    "project": "Boeing - Bldg. 17-62 Replace Tubing Bende",
+    "project": "Boeing - Bldg. 17-62 Replace Tubing Bender",
     "address": "Bldg. 17-62, Auburn",
     "permit": "",
-    "contractor": "Clements General Construc",
+    "contractor": "Clements General Construct",
     "phone": "(206) 391-7671",
     "manager": "Walter"
   },
   {
     "job_no": "19-0035",
-    "project": "Boeing - Bldg. 17-66 RMD Solvent Bottling",
+    "project": "Boeing - Bldg. 17-66 RMD Solvent Bottling M",
     "address": "Building 17-66, Auburn",
     "permit": "n/a",
     "contractor": "",
@@ -1307,7 +1216,7 @@
   },
   {
     "job_no": "18-1031",
-    "project": "Boeing - Bldg. 2-25 Plant 2 Replace Chiller",
+    "project": "Boeing - Bldg. 2-25 Plant 2 Replace Chiller S",
     "address": "Building 2-25, Tukwila",
     "permit": "",
     "contractor": "",
@@ -1316,7 +1225,7 @@
   },
   {
     "job_no": "18-1066",
-    "project": "Boeing - Bldg. 24-50A Remove Utility Supp",
+    "project": "Boeing - Bldg. 24-50A Remove Utility Suppor",
     "address": "Building 24-50A, Fredrickson",
     "permit": 900412,
     "contractor": "Schuchart Corporation",
@@ -1325,7 +1234,7 @@
   },
   {
     "job_no": "18-0350",
-    "project": "Boeing - Bldg. 24-60 Makino T-Chord Mill C",
+    "project": "Boeing - Bldg. 24-60 Makino T-Chord Mill Ca",
     "address": "Bldg. 24-60, Frederickson",
     "permit": 881546,
     "contractor": "Lease Crutcher Lewis, Inc.",
@@ -1333,20 +1242,11 @@
     "manager": "Walter"
   },
   {
-    "job_no": "19-0069",
-    "project": "Boeing - Bldg. 24-60 Utilities & Foundation-",
-    "address": "Bldg. 24-60, Frederickson",
-    "permit": "",
-    "contractor": "Clements General Construc",
-    "phone": "(206) 7934260",
-    "manager": "Walter"
-  },
-  {
     "job_no": "18-0975",
     "project": "Boeing - Bldg. 24-60 VPAL Racks",
     "address": "Building 24-60, Frederickson",
     "permit": "",
-    "contractor": "Clements General Construc",
+    "contractor": "Clements General Construct",
     "phone": "",
     "manager": "Walter"
   },
@@ -1361,20 +1261,11 @@
   },
   {
     "job_no": "18-0497",
-    "project": "Boeing - Bldg. 40-04 / 40-41 Compressed Ai",
+    "project": "Boeing - Bldg. 40-04 / 40-41 Compressed Air",
     "address": "Building 40-04, Everett",
     "permit": "",
     "contractor": "IMCO General Construction",
     "phone": "360-410-8035/360",
-    "manager": "Walter"
-  },
-  {
-    "job_no": "19-0087",
-    "project": "Boeing - Bldg. 40-22 Everett Site HVAC Re",
-    "address": "Building 40-22, Everett",
-    "permit": "n/a",
-    "contractor": "Schuchart Corporation",
-    "phone": "",
     "manager": "Walter"
   },
   {
@@ -1388,7 +1279,7 @@
   },
   {
     "job_no": "18-0773",
-    "project": "Boeing - Bldg. 40-23 Compressor-Drier Proj",
+    "project": "Boeing - Bldg. 40-23 Compressor-Drier Proje",
     "address": "Building 40-23, Everett",
     "permit": "",
     "contractor": "General Construction Comp",
@@ -1424,7 +1315,7 @@
   },
   {
     "job_no": "18-0084",
-    "project": "Boeing - Bldg. 40-25 FT – 777 Wing Body J",
+    "project": "Boeing - Bldg. 40-25 FT - 777 Wing Body Jo",
     "address": "Bldg. 40-025, Everett",
     "permit": "",
     "contractor": "General Construction Comp",
@@ -1433,7 +1324,7 @@
   },
   {
     "job_no": "18-0873",
-    "project": "Boeing - Bldg. 40-25 FT 777x SI Guide Mod",
+    "project": "Boeing - Bldg. 40-25 FT 777x SI Guide Modif",
     "address": "40-25, Everett",
     "permit": "",
     "contractor": "General Construction Comp",
@@ -1451,7 +1342,7 @@
   },
   {
     "job_no": "19-0005",
-    "project": "Boeing - Bldg. 40-25 Mobile Containment S",
+    "project": "Boeing - Bldg. 40-25 Mobile Containment Sy",
     "address": "Building 40-25, Everett",
     "permit": "",
     "contractor": "University Mechanical Contr",
@@ -1478,7 +1369,7 @@
   },
   {
     "job_no": "17-0242",
-    "project": "Boeing - Bldg. 40-35 Factory Transformatio",
+    "project": "Boeing - Bldg. 40-35 Factory Transformation",
     "address": "Bldg. 40-35, Everett",
     "permit": "B1703-044 & B16",
     "contractor": "General Construction Comp",
@@ -1534,8 +1425,8 @@
     "job_no": "14-0520",
     "project": "Boeing - Bldg. 40-58 777 Site Prep",
     "address": "Bldg. 40-58, Everett",
-    "permit": "PW 1405-038 (sit",
-    "contractor": "Hoffman Construction Com",
+    "permit": "PW 1405-038 (site",
+    "contractor": "Hoffman Construction Comp",
     "phone": "",
     "manager": "Walter"
   },
@@ -1553,7 +1444,7 @@
     "project": "Boeing - Bldg. 40-58 Autoclave Phase 2",
     "address": "Bldg. 40-58, Everett",
     "permit": "",
-    "contractor": "Hoffman Construction Com",
+    "contractor": "Hoffman Construction Comp",
     "phone": "",
     "manager": "Walter"
   },
@@ -1568,7 +1459,7 @@
   },
   {
     "job_no": "18-1075",
-    "project": "Boeing - Bldg. 40-58 HPS & PC Isolation Va",
+    "project": "Boeing - Bldg. 40-58 HPS & PC Isolation Val",
     "address": "Building 40-58 Tunnel, Everett",
     "permit": "",
     "contractor": "Greenberry Industrial",
@@ -1577,7 +1468,7 @@
   },
   {
     "job_no": "18-0460",
-    "project": "Boeing - Bldg. 40-58 PFL Spar Lamination",
+    "project": "Boeing - Bldg. 40-58 PFL Spar Lamination O",
     "address": "Bldg. 40-58, Everett",
     "permit": "",
     "contractor": "Hoffman Construction",
@@ -1586,19 +1477,19 @@
   },
   {
     "job_no": "18-0832",
-    "project": "Boeing - Bldg. 40-58 PGF Stringer Radius F",
+    "project": "Boeing - Bldg. 40-58 PGF Stringer Radius Fil",
     "address": "Bldg. 40-58, Everett",
     "permit": "",
-    "contractor": "Hoffman Construction Com",
+    "contractor": "Hoffman Construction Comp",
     "phone": "",
     "manager": "Walter"
   },
   {
     "job_no": "18-0561",
-    "project": "Boeing - Bldg. 40-58 PGO Stringer Hand/Bl",
+    "project": "Boeing - Bldg. 40-58 PGO Stringer Hand/Bla",
     "address": "Bldg. 40-58, Everett",
     "permit": "",
-    "contractor": "Hoffman Construction Com",
+    "contractor": "Hoffman Construction Comp",
     "phone": "",
     "manager": "Walter"
   },
@@ -1613,28 +1504,28 @@
   },
   {
     "job_no": "18-0665",
-    "project": "Boeing - Bldg. 40-58 PHL Skin/Panel Lamin",
+    "project": "Boeing - Bldg. 40-58 PHL Skin/Panel Lamina",
     "address": "Bldg. 40-58 (Cells 3 & 4), Everett",
     "permit": "",
-    "contractor": "Hoffman Construction Com",
+    "contractor": "Hoffman Construction Comp",
     "phone": "",
     "manager": "Walter"
   },
   {
     "job_no": "17-0696",
-    "project": "Boeing - Bldg. 40-58 PHP-2 Panel Paint Ph",
+    "project": "Boeing - Bldg. 40-58 PHP-2 Panel Paint Pha",
     "address": "Bldg. 40-58, Everett",
     "permit": "",
-    "contractor": "Hoffman Construction Com",
+    "contractor": "Hoffman Construction Comp",
     "phone": "",
     "manager": "Walter"
   },
   {
     "job_no": "15-0676",
-    "project": "Boeing - Bldg. 40-58 PHT Panel Trim and D",
+    "project": "Boeing - Bldg. 40-58 PHT Panel Trim and Dri",
     "address": "Bldg. 40-58, Everett",
     "permit": "B1406-038",
-    "contractor": "Hoffman Construction Com",
+    "contractor": "Hoffman Construction Comp",
     "phone": "",
     "manager": "Walter"
   },
@@ -1648,20 +1539,11 @@
     "manager": "Walter"
   },
   {
-    "job_no": "19-0075",
-    "project": "Boeing - Bldg. 40-58 Seismic Floor Scan",
-    "address": "Bldg. 40-58, Everett",
-    "permit": "",
-    "contractor": "M. Torres America",
-    "phone": "",
-    "manager": "Walter"
-  },
-  {
     "job_no": "18-0895",
-    "project": "Boeing - Bldg. 40-58 Stringer AFP Laminati",
+    "project": "Boeing - Bldg. 40-58 Stringer AFP Laminatio",
     "address": "Bldg. 40-58, Everett",
     "permit": "",
-    "contractor": "Hoffman Construction Com",
+    "contractor": "Hoffman Construction Comp",
     "phone": "",
     "manager": "Walter"
   },
@@ -1676,7 +1558,7 @@
   },
   {
     "job_no": "18-0852",
-    "project": "Boeing - Bldg. 45-01 Low Bay Crane Stacke",
+    "project": "Boeing - Bldg. 45-01 Low Bay Crane Stacker",
     "address": "see comments, Everett",
     "permit": "",
     "contractor": "Deshazo",
@@ -1685,7 +1567,7 @@
   },
   {
     "job_no": "18-0969",
-    "project": "Boeing - Bldg. 45-03 Paint Hangar Modificat",
+    "project": "Boeing - Bldg. 45-03 Paint Hangar Modificati",
     "address": "Bldg. 45-03, Everett",
     "permit": "",
     "contractor": "Skanska USA Commercial",
@@ -1703,7 +1585,7 @@
   },
   {
     "job_no": "19-0056",
-    "project": "Boeing - Bldg. 45-03 Paint Hangar Solvent",
+    "project": "Boeing - Bldg. 45-03 Paint Hangar Solvent T",
     "address": "Bldg. 45-03, Everett",
     "permit": "",
     "contractor": "University Mechanical Contr",
@@ -1748,7 +1630,7 @@
   },
   {
     "job_no": "18-0761",
-    "project": "Boeing - Bldg. 9-101 ADC Thermoplastic Pr",
+    "project": "Boeing - Bldg. 9-101 ADC Thermoplastic Pre",
     "address": "Building 9-101, Tukwila",
     "permit": "D18-0215",
     "contractor": "BN Builders, Inc.",
@@ -1757,7 +1639,7 @@
   },
   {
     "job_no": "19-0052",
-    "project": "Boeing - Emergency Repair (Fire Line Rupt",
+    "project": "Boeing - Emergency Repair (Fire Line Ruptu",
     "address": "Between Bldgs. 40-11 and 40-01, Everett",
     "permit": "",
     "contractor": "",
@@ -1769,7 +1651,7 @@
     "project": "Boeing - Everett West Parking Access 526 I",
     "address": "Hwy 526 Parking, Everett",
     "permit": "",
-    "contractor": "Gary Merlino Construction",
+    "contractor": "Gary Merlino Construction C",
     "phone": "(206) 755-2987",
     "manager": "Walter"
   },
@@ -1802,7 +1684,7 @@
   },
   {
     "job_no": "18-0177",
-    "project": "Boeing - Tool #TMR132762 PME284W7001",
+    "project": "Boeing - Tool #TMR132762 PME284W7001-",
     "address": "Bldg. 40-53 Column F8.5, Everett",
     "permit": "",
     "contractor": "Boeing Everett Tool Depart",
@@ -1811,7 +1693,7 @@
   },
   {
     "job_no": "18-0192",
-    "project": "Boeing - Tool #TMR132779 PME284W7003",
+    "project": "Boeing - Tool #TMR132779 PME284W7003-",
     "address": "Bldg. 40-53, Col F8.5, Everett",
     "permit": "",
     "contractor": "Boeing Everett Tool Depart",
@@ -1927,15 +1809,6 @@
     "manager": "Jeff"
   },
   {
-    "job_no": "18-0879",
-    "project": "C755 Rail Replacement - King County Light",
-    "address": "M.L. King Way - various, Seattle",
-    "permit": "",
-    "contractor": "",
-    "phone": "(206) 255-4811",
-    "manager": "Isaac"
-  },
-  {
     "job_no": "18-1052",
     "project": "Cambria Commercial Building",
     "address": "22051 68th Ave S, Kent",
@@ -1958,7 +1831,7 @@
     "project": "Capen-Davis Residence",
     "address": "2537 37th Avenue West, Seattle",
     "permit": 6581940,
-    "contractor": "Joseph McKinstry Construct",
+    "contractor": "Joseph McKinstry Constructi",
     "phone": "(206) 406-9404",
     "manager": "Isaac"
   },
@@ -1983,7 +1856,7 @@
   {
     "job_no": "18-0915",
     "project": "Cascade Hills Phase 3",
-    "address": "Corner of SE 167th St & 117th Ave SE, Rento",
+    "address": "Corner of SE 167th St & 117th Ave SE, Renton",
     "permit": "",
     "contractor": "Kar-Vel Construction",
     "phone": "(425) 533-5204",
@@ -2440,15 +2313,6 @@
     "manager": "Walter"
   },
   {
-    "job_no": "18-0448",
-    "project": "Clawson Laster Residence",
-    "address": "1512 32nd Avenue South, Seattle",
-    "permit": 6615867,
-    "contractor": "McDowell NW Pile King, Inc",
-    "phone": "(206) 510-4218",
-    "manager": "Isaac"
-  },
-  {
     "job_no": "19-0016",
     "project": "Colby Apartments",
     "address": "2229 Colby Avenue, Everett",
@@ -2473,6 +2337,15 @@
     "permit": "not applicable",
     "contractor": "Pacific Pile & Marine, LP",
     "phone": "(206) 459-5998",
+    "manager": "Isaac"
+  },
+  {
+    "job_no": "18-1065",
+    "project": "Comcast Silverdale",
+    "address": "11467 Pacific Crest Place NW #C107, Silverdal",
+    "permit": "",
+    "contractor": "",
+    "phone": "(503) 381-6329",
     "manager": "Isaac"
   },
   {
@@ -2631,7 +2504,7 @@
   {
     "job_no": "17-0048j",
     "project": "Crossroads Village - Bldg. 14",
-    "address": "??1423 158th Place NE, Bellevue",
+    "address": "1423 158th Place NE, Bellevue",
     "permit": "16-129243BB",
     "contractor": "Polygon Northwest",
     "phone": "(253) 341-7408",
@@ -2774,7 +2647,7 @@
   },
   {
     "job_no": "17-0048t",
-    "project": "Crossroads Village – Fire Lane",
+    "project": "Crossroads Village - Fire Lane",
     "address": "Various, Bellevue",
     "permit": "16 122255FN",
     "contractor": "Polygon Northwest",
@@ -2810,7 +2683,7 @@
   },
   {
     "job_no": "18-1015",
-    "project": "CT-26 Koi Shi Sushi and Bento (Project ID",
+    "project": "CT-26 Koi Shi Sushi and Bento (Project ID U",
     "address": "17801 International Blvd, SeaTac Airport",
     "permit": "BLD-18-0083",
     "contractor": "Wilcox Construction, Inc.",
@@ -2825,6 +2698,15 @@
     "contractor": "Slater Homes Corp",
     "phone": "(425) 890-3397",
     "manager": "Jeff"
+  },
+  {
+    "job_no": "18-0796",
+    "project": "Dance Studio",
+    "address": "3012 NE Blakeley Street, Seattle",
+    "permit": "6634503-CN",
+    "contractor": "BN Builders, Inc.",
+    "phone": "",
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0550",
@@ -2928,8 +2810,8 @@
   {
     "job_no": "18-1064f",
     "project": "Earlington Project Bldg. 06",
-    "address": "13101-13111 83rd Lane S (See Notes), Renton",
-    "permit": "B18001192",
+    "address": "13101-13111 83rd Lane S, Renton",
+    "permit": "",
     "contractor": "Polygon Northwest",
     "phone": "(425) 786-4913",
     "manager": "Walter"
@@ -3009,7 +2891,7 @@
   {
     "job_no": "16-0860a",
     "project": "East Link Light Rail I-90 (E130 - Judkins Par",
-    "address": "1496 Rainier Ave S (use 1400 S Dean for GPS",
+    "address": "1496 Rainier Ave S (use 1400 S Dean for GPS)",
     "permit": "",
     "contractor": "Kiewit-Hoffman East Link C",
     "phone": "206-549-5289",
@@ -3018,7 +2900,7 @@
   {
     "job_no": "16-0860",
     "project": "East Link Light Rail I-90 (E130 - MI Station)",
-    "address": "2510 77th Avenue SE* (MI Station), Mercer Isl",
+    "address": "2510 77th Avenue SE* (MI Station), Mercer Isla",
     "permit": "",
     "contractor": "Kiewit-Hoffman East Link C",
     "phone": "206-549-5289",
@@ -3045,7 +2927,7 @@
   {
     "job_no": "17-0274",
     "project": "East Link Light Rail Project (E360 Segment)",
-    "address": "Near SR 520 at NE 20th St. to OTC Station, B",
+    "address": "Near SR 520 at NE 20th St. to OTC Station, Bel",
     "permit": "",
     "contractor": "",
     "phone": "(253) 439-8884",
@@ -3064,7 +2946,7 @@
     "job_no": "16-0804d",
     "project": "Eclipse Townhomes - Bldg. 01",
     "address": "3302 31st Drive, Everett",
-    "permit": "C1606-069 thru 0",
+    "permit": "C1606-069 thru 07",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3073,7 +2955,7 @@
     "job_no": "16-0804f",
     "project": "Eclipse Townhomes - Bldg. 02",
     "address": "3301 31st Drive, Everett",
-    "permit": "C1604-020 thru 0",
+    "permit": "C1604-020 thru 02",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3109,7 +2991,7 @@
     "job_no": "16-0804e",
     "project": "Eclipse Townhomes - Bldg. 06",
     "address": "3322 31st Drive, Everett",
-    "permit": "C1604-068 thru 0",
+    "permit": "C1604-068 thru 07",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3118,7 +3000,7 @@
     "job_no": "16-0804j",
     "project": "Eclipse Townhomes - Bldg. 07",
     "address": "3336 to 3346 31st Drive, Everett",
-    "permit": "C1604-074 thru 0",
+    "permit": "C1604-074 thru 07",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3136,7 +3018,7 @@
     "job_no": "16-0804l",
     "project": "Eclipse Townhomes - Bldg. 09",
     "address": "3401 31st Drive, Everett",
-    "permit": "C1603-036 thru 0",
+    "permit": "C1603-036 thru 04",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3145,7 +3027,7 @@
     "job_no": "16-0804m",
     "project": "Eclipse Townhomes - Bldg. 10",
     "address": "3350 31st Drive, Everett",
-    "permit": "C1604-080 thru 0",
+    "permit": "C1604-080 thru 08",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3181,7 +3063,7 @@
     "job_no": "16-0804w",
     "project": "Eclipse Townhomes - Bldg. 14",
     "address": "3458 31st Drive, Everett",
-    "permit": "C1604-092 thru 0",
+    "permit": "C1604-092 thru 09",
     "contractor": "Polygon Northwest",
     "phone": "(425) 328-5811",
     "manager": "Walter"
@@ -3190,7 +3072,7 @@
     "job_no": "18-0287d",
     "project": "Eclipse Townhomes - Bldg. 15",
     "address": "3435 31st Drive, Everett",
-    "permit": "C1604-050 thru 0",
+    "permit": "C1604-050 thru 05",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3199,7 +3081,7 @@
     "job_no": "18-0287e",
     "project": "Eclipse Townhomes - Bldg. 16",
     "address": "3447 31st Drive, Everett",
-    "permit": "C1603-041 thru 0",
+    "permit": "C1603-041 thru 04",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3208,7 +3090,7 @@
     "job_no": "18-0287f",
     "project": "Eclipse Townhomes - Bldg. 17",
     "address": "Various, Everett",
-    "permit": "C1603-046 thru 0",
+    "permit": "C1603-046 thru 04",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3217,7 +3099,7 @@
     "job_no": "16-0804a",
     "project": "Eclipse Townhomes - Bldg. 18",
     "address": "3300 Eclipse Mill Rd (3458 31st Drive), Everett",
-    "permit": "C1602-016 thru 0",
+    "permit": "C1602-016 thru 01",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3226,7 +3108,7 @@
     "job_no": "16-0804b",
     "project": "Eclipse Townhomes - Bldg. 19",
     "address": "3511 31st Drive, Everett",
-    "permit": "C1602-020 thru 0",
+    "permit": "C1602-020 thru 02",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3235,7 +3117,7 @@
     "job_no": "16-0804c",
     "project": "Eclipse Townhomes - Bldg. 20",
     "address": "3300 Eclipse Mill Road, Everett",
-    "permit": "C1604-098 thru 1",
+    "permit": "C1604-098 thru 10",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3244,7 +3126,7 @@
     "job_no": "16-0804u",
     "project": "Eclipse Townhomes - Bldg. 21",
     "address": "3339 30th Drive, Everett",
-    "permit": "C1604-104 thru 1",
+    "permit": "C1604-104 thru 10",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3253,7 +3135,7 @@
     "job_no": "16-0804n",
     "project": "Eclipse Townhomes - Bldg. 22",
     "address": "3405 30th Drive, Everett",
-    "permit": "C1604-112 thru 1",
+    "permit": "C1604-112 thru 11",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3262,7 +3144,7 @@
     "job_no": "16-0804o",
     "project": "Eclipse Townhomes - Bldg. 23",
     "address": "3410 30th Drive, Everett",
-    "permit": "C1603-050 thru 0",
+    "permit": "C1603-050 thru 05",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3271,7 +3153,7 @@
     "job_no": "16-0804r",
     "project": "Eclipse Townhomes - Bldg. 24",
     "address": "3409-3419 30th Drive, Everett",
-    "permit": "C1604-118 thru 1",
+    "permit": "C1604-118 thru 12",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3289,7 +3171,7 @@
     "job_no": "16-0804s",
     "project": "Eclipse Townhomes - Bldg. 26",
     "address": "3423-3435 30th Drive, Everett",
-    "permit": "C1606-076 thru 0",
+    "permit": "C1606-076 thru 08",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3298,7 +3180,7 @@
     "job_no": "16-0804q",
     "project": "Eclipse Townhomes - Bldg. 27",
     "address": "3011 34th Place, Everett",
-    "permit": "C1606-097 thru 1",
+    "permit": "C1606-097 thru 10",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3307,7 +3189,7 @@
     "job_no": "16-0804v",
     "project": "Eclipse Townhomes - Bldg. 28",
     "address": "3002-3012 34th Place, Everett",
-    "permit": "C1606-102 thru 1",
+    "permit": "C1606-102 thru 10",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3334,7 +3216,7 @@
     "job_no": "16-0804z",
     "project": "Eclipse Townhomes - Bldg. 31",
     "address": "3001 35th Street, Everett",
-    "permit": "C1604-062 thru 0",
+    "permit": "C1604-062 thru 06",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3343,7 +3225,7 @@
     "job_no": "18-0287b",
     "project": "Eclipse Townhomes - Bldg. 32",
     "address": "3208 30th Avenue, Everett",
-    "permit": "C1606-108 thru 1",
+    "permit": "C1606-108 thru 11",
     "contractor": "Polygon Northwest",
     "phone": "(425) 891-2727",
     "manager": "Walter"
@@ -3383,15 +3265,6 @@
     "contractor": "",
     "phone": "253-845-7000",
     "manager": "Anthony"
-  },
-  {
-    "job_no": "19-0065",
-    "project": "Elite Commercial Contracting",
-    "address": "406 E North Bend Way, North Bend",
-    "permit": "",
-    "contractor": "Rainier Industries, Ltd.",
-    "phone": "",
-    "manager": "Walter"
   },
   {
     "job_no": "17-0663",
@@ -3494,7 +3367,7 @@
   },
   {
     "job_no": "19-0020",
-    "project": "Frye Apartments In-Plane Brick Shear Testi",
+    "project": "Frye Apartments In-Plane Brick Shear Testin",
     "address": "223 Yesler Way, Seattle",
     "permit": "",
     "contractor": "",
@@ -3506,30 +3379,18 @@
     "project": "Garman Residence",
     "address": "432 2nd Avenue NE, Seattle",
     "permit": 6671870,
-    "contractor": "Prestige Residential Constr",
+    "contractor": "Prestige Residential Constru",
     "phone": "",
-    "manager": "",
-    "": "Isaac"
-  },
-  {
-    "job_no": "19-0070",
-    "project": "Garms Residence",
-    "address": "324 7th avenue, Kirkland",
-    "permit": "BSF18-01422",
-    "contractor": "Schovajsa Construction",
-    "phone": "(425) 246-5936",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0670",
     "project": "Gene Coulon Memorial Beach Park Structur",
-    "address": "1201 Lake Washington Boulevard North, Rent",
-    "permit": "B18-001880",
+    "address": "1201 Lake Washington Boulevard North, Rento",
+    "permit": "",
     "contractor": "Quigg Brothers, Inc.",
     "phone": "360-500-9332",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "16-0478a",
@@ -3538,8 +3399,7 @@
     "permit": 6551884,
     "contractor": "Donovan Brothers, Inc.",
     "phone": "(206) 354-6326",
-    "manager": "",
-    "": "Walter"
+    "manager": "Walter"
   },
   {
     "job_no": "18-0696",
@@ -3548,28 +3408,25 @@
     "permit": "6599240-CN",
     "contractor": "JTM Construction",
     "phone": "(206) 817-5870",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0874",
-    "project": "Georgetown Wet Weather Treatment Statio",
+    "project": "Georgetown Wet Weather Treatment Station",
     "address": "6185 4th Ave. S, Seattle",
     "permit": "",
     "contractor": "James W. Fowler Company",
     "phone": "",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0713",
-    "project": "Georgetown Wet Weather Treatment Statio",
+    "project": "Georgetown Wet Weather Treatment Station",
     "address": "6185 4th Ave. S, Seattle",
     "permit": 6503485,
     "contractor": "Flatiron West, Inc.",
     "phone": "(360) 630-3553",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0971",
@@ -3578,8 +3435,7 @@
     "permit": "",
     "contractor": "",
     "phone": "",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "17-0213",
@@ -3588,8 +3444,7 @@
     "permit": "CNST2151446",
     "contractor": "Strong Weld",
     "phone": "(206) 355-9353",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0782",
@@ -3598,8 +3453,7 @@
     "permit": "B17005057",
     "contractor": "Walsh Construction Compa",
     "phone": "(206) 551-6594",
-    "manager": "",
-    "": "Walter"
+    "manager": "Walter"
   },
   {
     "job_no": "16-0396",
@@ -3608,8 +3462,7 @@
     "permit": 6526552,
     "contractor": "Interstate Restoration",
     "phone": "(425) 343-7636",
-    "manager": "",
-    "": "Jeff"
+    "manager": "Jeff"
   },
   {
     "job_no": "19-0060",
@@ -3618,8 +3471,7 @@
     "permit": 6653761,
     "contractor": "Raincap Construction, Inc.",
     "phone": "(303) 746-4879",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0810",
@@ -3627,9 +3479,8 @@
     "address": "19318 29th Avenue SE, Bothell",
     "permit": "",
     "contractor": "",
-    "phone": "(206) 890-3084",
-    "manager": "*",
-    "": "Scott"
+    "phone": "(206) 890-3084  *",
+    "manager": "Scott"
   },
   {
     "job_no": "17-0529",
@@ -3638,38 +3489,25 @@
     "permit": 6622498,
     "contractor": "",
     "phone": "",
-    "manager": "",
-    "": "Anthony"
-  },
-  {
-    "job_no": "19-0074",
-    "project": "Greenside Recreational",
-    "address": "23407 Pacific Highway S, Des Moines",
-    "permit": "",
-    "contractor": "Rainier Industries, Ltd.",
-    "phone": "(206) 819-3846",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Anthony"
   },
   {
     "job_no": "18-0944",
     "project": "Greenwood Phinney Landbanked Park",
-    "address": "Greenwood Ave N (N 82nd St and N 81st St),",
+    "address": "Greenwood Ave N (N 82nd St and N 81st St), S",
     "permit": 6583298,
     "contractor": "Wyser Construction Co., Inc",
     "phone": "",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0463",
     "project": "Ground Transportation Building Renovation",
     "address": "2809 South 160th Street, SeaTac",
-    "permit": "1810596 or BLD-",
+    "permit": "1810596 or BLD-P",
     "contractor": "Colvos Construction, LLC",
     "phone": "(425)879-9512",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-1061",
@@ -3678,8 +3516,7 @@
     "permit": "17-07079",
     "contractor": "JD Bergevin Homes, Inc.",
     "phone": "(425) 406-9086",
-    "manager": "",
-    "": "Jeff"
+    "manager": "Jeff"
   },
   {
     "job_no": "19-0051",
@@ -3688,18 +3525,7 @@
     "permit": "",
     "contractor": "",
     "phone": "(503) 381-6329",
-    "manager": "",
-    "": "Isaac"
-  },
-  {
-    "job_no": "19-0093",
-    "project": "Guthrie Residence",
-    "address": "3141 Fairweather Drive, Hunts Point",
-    "permit": "",
-    "contractor": "Sea & Shore Construction, I",
-    "phone": "(206) 434-1449",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "19-0044",
@@ -3708,8 +3534,7 @@
     "permit": "n/a",
     "contractor": "",
     "phone": "",
-    "manager": "",
-    "": "Walter"
+    "manager": "Walter"
   },
   {
     "job_no": "17-0169a",
@@ -3718,8 +3543,7 @@
     "permit": 6503579,
     "contractor": "M Brown Industries, LLC",
     "phone": "",
-    "manager": "",
-    "": "Anthony"
+    "manager": "Anthony"
   },
   {
     "job_no": "18-0952",
@@ -3728,15 +3552,14 @@
     "permit": 6644971,
     "contractor": "Tatley-Grund, Inc.",
     "phone": "",
-    "manager": "",
-    "": "Walter"
+    "manager": "Walter"
   },
   {
     "job_no": "18-1081",
     "project": "Harrison Row Houses",
     "address": "1052 E Harrison Street, Seattle",
     "permit": 6613739,
-    "contractor": "Revolution Custom Builders",
+    "contractor": "Revolution Custom Builders,",
     "phone": "(260) 779-1414",
     "manager": "Isaac"
   },
@@ -3745,7 +3568,7 @@
     "project": "Harvard & Highland Condominiums Building",
     "address": "1188 Harvard Avenue East, Seattle",
     "permit": 6117384,
-    "contractor": "WG Clark Construction Co",
+    "contractor": "WG Clark Construction Com",
     "phone": "(206) 793-3972",
     "manager": "Walter"
   },
@@ -3786,17 +3609,8 @@
     "manager": "Anthony"
   },
   {
-    "job_no": "19-0063",
-    "project": "Hess Residence",
-    "address": "4822 251st St SE, Snohomish",
-    "permit": "18122258RK",
-    "contractor": "Everett, Aaron",
-    "phone": "(206) 276-2300",
-    "manager": "Scott"
-  },
-  {
     "job_no": "19-0033",
-    "project": "Highline College - Bldg. 6 Canopy (Project",
+    "project": "Highline College - Bldg. 6 Canopy (Project N",
     "address": "2400 S. 240th Street, Building 6, Des Moines",
     "permit": "BLD2018-1344",
     "contractor": "Pease Construction, Inc.",
@@ -3805,7 +3619,7 @@
   },
   {
     "job_no": "16-0456",
-    "project": "Highline S. 268th St. Water & Brightwood P",
+    "project": "Highline S. 268th St. Water & Brightwood Pa",
     "address": "S. 268th St. & Brightwood Park, Normandy Par",
     "permit": "ENG2016-044",
     "contractor": "SCI Infrastructure, LLC",
@@ -3916,18 +3730,9 @@
     "project": "Hive Roosevelt - Structural",
     "address": "6717 Roosevelt Way NE, Seattle",
     "permit": 6534447,
-    "contractor": "WG Clark Construction Co",
+    "contractor": "WG Clark Construction Com",
     "phone": "(206) 305-6154",
     "manager": "Jeff"
-  },
-  {
-    "job_no": "19-0080",
-    "project": "Hoch Residence",
-    "address": "3610 W. Commodore Way, Seattle",
-    "permit": "6620033-CN",
-    "contractor": "Gregerson Custom Homes,",
-    "phone": "(425) 691-0042",
-    "manager": "Isaac"
   },
   {
     "job_no": "18-0830",
@@ -3949,10 +3754,10 @@
   },
   {
     "job_no": "18-0958",
-    "project": "Holy Family Kirkland CGS Classroom Buildi",
+    "project": "Holy Family Kirkland CGS Classroom Buildin",
     "address": "7355 120th Ave NE, Kirkland",
     "permit": "BNR18-03676",
-    "contractor": "Hamish Anderson Custom",
+    "contractor": "Hamish Anderson Custom H",
     "phone": "(215) 756-3909",
     "manager": "Jeff"
   },
@@ -3990,15 +3795,6 @@
     "permit": 6531146,
     "contractor": "Orcas Homes, LLC",
     "phone": "(253) 653-9545",
-    "manager": "Isaac"
-  },
-  {
-    "job_no": "19-0081",
-    "project": "Huey Basement Remodel",
-    "address": "2515 West Smith Street, Seattle",
-    "permit": "6697819-CN",
-    "contractor": "Joseph McKinstry Construct",
-    "phone": "(206) 948-5511",
     "manager": "Isaac"
   },
   {
@@ -4051,7 +3847,7 @@
     "project": "Inspirus Credit Union Bremerton WA",
     "address": "5373 Auto Center Way, Bremerton",
     "permit": "BB1800466",
-    "contractor": "Tricon Commercial Constru",
+    "contractor": "Tricon Commercial Construc",
     "phone": "",
     "manager": "Jeff"
   },
@@ -4060,18 +3856,9 @@
     "project": "Inspirus Credit Union Store Kirkland 2734",
     "address": "10020 NE 137th St, Kirkland",
     "permit": "BNR18-07944",
-    "contractor": "Tricon Commercial Constru",
+    "contractor": "Tricon Commercial Construc",
     "phone": "(425) 577-9713",
     "manager": "Isaac"
-  },
-  {
-    "job_no": "19-0083",
-    "project": "Install New Awning",
-    "address": "8021 S 198th St, Kent",
-    "permit": 2183229,
-    "contractor": "Southcreek Construction LL",
-    "phone": "(253) 988-0283",
-    "manager": "Jeff"
   },
   {
     "job_no": "17-0409",
@@ -4080,15 +3867,6 @@
     "permit": "",
     "contractor": "West Coast Flooring, Inc.",
     "phone": "(253) 970-7270",
-    "manager": "Isaac"
-  },
-  {
-    "job_no": "19-0090",
-    "project": "Intellectual Ventures Mezzanine Expansion",
-    "address": "14360 SE Eastgate Way, Bellevue",
-    "permit": "18 102894 BZ",
-    "contractor": "Swinerton Builders, Inc.",
-    "phone": "(425) 283-5197",
     "manager": "Isaac"
   },
   {
@@ -4105,7 +3883,7 @@
     "project": "Jackson",
     "address": "1425 S Jackson Street, Seattle",
     "permit": "6611600-CN",
-    "contractor": "Craftsman Construction, Inc",
+    "contractor": "Craftsman Construction, Inc.",
     "phone": "(206) 619-4501",
     "manager": "Jeff"
   },
@@ -4210,10 +3988,10 @@
   },
   {
     "job_no": "19-0021",
-    "project": "Juanita Bay Condominium - Exterior Remed",
+    "project": "Juanita Bay Condominium - Exterior Remedi",
     "address": "9201 NE Juanita Drive, Kirkland",
     "permit": "BMF18-01686",
-    "contractor": "Pacific Building Envelope, I",
+    "contractor": "Pacific Building Envelope, In",
     "phone": "(425) 770-5746",
     "manager": "Jeff"
   },
@@ -4231,7 +4009,7 @@
     "project": "Kamin Building",
     "address": "5101 14th Avenue NW, Seattle",
     "permit": "6571124-CN",
-    "contractor": "Kamin Excavation/Commer",
+    "contractor": "Kamin Excavation/Commerc",
     "phone": "(206) 423-8907",
     "manager": "Isaac"
   },
@@ -4240,7 +4018,7 @@
     "project": "Kashani Residence (Ali)",
     "address": "306 13th Ave, Kirkland",
     "permit": "BSF18-00509",
-    "contractor": "Artoush Construction & Re",
+    "contractor": "Artoush Construction & Rem",
     "phone": "(425) 890-9995",
     "manager": "Isaac"
   },
@@ -4249,7 +4027,7 @@
     "project": "Kearney Lowes Residence",
     "address": "1502 Grand Ave, Seattle",
     "permit": "6624190-CN",
-    "contractor": "McBride Construction Reso",
+    "contractor": "McBride Construction Resou",
     "phone": "(206) 235-1672",
     "manager": "Isaac"
   },
@@ -4398,24 +4176,6 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "19-0068",
-    "project": "Leece Residence",
-    "address": "5101 Somerset Drive SE, Bellevue",
-    "permit": "19102977BU",
-    "contractor": "Seismic Northwest, LP",
-    "phone": "(360) 349-3857",
-    "manager": "Isaac"
-  },
-  {
-    "job_no": "19-0064",
-    "project": "Leland Allen Project",
-    "address": "1653 Edgewood Ave SW, Seattle",
-    "permit": 6416987,
-    "contractor": "Ericson Arch Home Design I",
-    "phone": "(206) 391-9513",
-    "manager": "Jeff"
-  },
-  {
     "job_no": "17-0675",
     "project": "Lemley Residence",
     "address": "2214 37th Avenue SW, Seattle",
@@ -4489,10 +4249,10 @@
   },
   {
     "job_no": "19-0001",
-    "project": "Lithia BMW of Seattle – Sales Building Rem",
+    "project": "Lithia BMW of Seattle - Sales Building Rem",
     "address": "1002 Airport Way South, Seattle",
     "permit": "6627240-CN-001",
-    "contractor": "Kirtley-Cole Associates, LL",
+    "contractor": "Kirtley-Cole Associates, LLC",
     "phone": "",
     "manager": "Isaac"
   },
@@ -4552,7 +4312,7 @@
   },
   {
     "job_no": "18-0023",
-    "project": "Magnolia Elementary School Renovation an",
+    "project": "Magnolia Elementary School Renovation and",
     "address": "2418 28th Avenue West, Seattle",
     "permit": 6511044,
     "contractor": "Forma Construction Compa",
@@ -4614,15 +4374,6 @@
     "manager": "Jeff"
   },
   {
-    "job_no": "19-0071",
-    "project": "Mary Rowhouse",
-    "address": "6725 Mary Ave NW, Seattle",
-    "permit": 6597678,
-    "contractor": "Turnkey Builders",
-    "phone": "(206) 353-1361",
-    "manager": "Jeff"
-  },
-  {
     "job_no": "18-1083",
     "project": "Mathiasen Residence",
     "address": "10203 NE 29th Place, Bellevue",
@@ -4645,7 +4396,7 @@
     "project": "McClure Residence",
     "address": "1530 31st Avenue, Seattle",
     "permit": "n/a",
-    "contractor": "Pathway Design & Construc",
+    "contractor": "Pathway Design & Construct",
     "phone": "",
     "manager": "Anthony"
   },
@@ -4677,15 +4428,6 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "19-0092",
-    "project": "Meadowbrook Pool",
-    "address": "10515 35th Ave NE, Seattle",
-    "permit": "6624594-CN-001",
-    "contractor": "Biwell Construction",
-    "phone": "(206) 423-1917",
-    "manager": "Isaac"
-  },
-  {
     "job_no": "19-0012",
     "project": "Medgar Evers Pool",
     "address": "500 23rd Avenue, Seattle",
@@ -4714,7 +4456,7 @@
   },
   {
     "job_no": "18-0929",
-    "project": "Military Road S & S 298th Street Compact",
+    "project": "Military Road S & S 298th Street Compact R",
     "address": "Military Rd S & S 298th St, Federal Way",
     "permit": "",
     "contractor": "Tunista Construction, LLC",
@@ -4767,15 +4509,6 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "17-0053",
-    "project": "Mitchell Residence Retaining Wall",
-    "address": "8205 S 123rd Pl, Seattle",
-    "permit": "",
-    "contractor": "",
-    "phone": "",
-    "manager": "Scott"
-  },
-  {
     "job_no": "18-1062",
     "project": "Monte Cristo Square",
     "address": "9150 23rd Ave NW, Seattle",
@@ -4794,15 +4527,6 @@
     "manager": "Jeff"
   },
   {
-    "job_no": "19-0089",
-    "project": "Morris Residence",
-    "address": "2711 East Roy Street, Seattle",
-    "permit": "",
-    "contractor": "",
-    "phone": "",
-    "manager": "Anthony"
-  },
-  {
     "job_no": "18-0754",
     "project": "Mount Baker Family Housing",
     "address": "2870 South Hanford Street, Seattle",
@@ -4816,16 +4540,16 @@
     "project": "Mount Baker Station Apartments - 2615 Nort",
     "address": "2615 25th Ave S, Seattle",
     "permit": 6309478,
-    "contractor": "Osborne Construction Com",
+    "contractor": "Osborne Construction Comp",
     "phone": "(425) 305-7401",
     "manager": "Walter"
   },
   {
     "job_no": "18-0073",
-    "project": "Mount Baker Station Apartments - 2715 Sou",
+    "project": "Mount Baker Station Apartments - 2715 Sout",
     "address": "2715 25th Ave S, Seattle",
     "permit": 6535937,
-    "contractor": "Osborne Construction Com",
+    "contractor": "Osborne Construction Comp",
     "phone": "(425) 305-7401",
     "manager": "Walter"
   },
@@ -4843,12 +4567,12 @@
     "project": "Mud Bay - Renton",
     "address": "17320 140th Ave Southeast, Bldg E, Suites 9-1",
     "permit": "ADDC18-0419",
-    "contractor": "Western Construction Servi",
+    "contractor": "Western Construction Servic",
     "phone": "(360) 601-7931",
     "manager": "Jeff"
   },
   {
-    "job_no": "19-00431",
+    "job_no": "19-0043",
     "project": "My Salon Suites",
     "address": "17214 Highway 99, Lynnwood",
     "permit": "BTI-018688-2018",
@@ -4906,7 +4630,7 @@
     "project": "N-Habit Rainier Apartments",
     "address": "718 Rainier Avenue South, Seattle",
     "permit": 6557651,
-    "contractor": "WG Clark Construction Co",
+    "contractor": "WG Clark Construction Com",
     "phone": "",
     "manager": "Walter"
   },
@@ -4942,7 +4666,7 @@
     "project": "Northwest 63rd Street",
     "address": "1443 NW 63rd Street, Seattle",
     "permit": 6496710,
-    "contractor": "Greenbuild Development, L",
+    "contractor": "Greenbuild Development, LL",
     "phone": "(253) 269-2748",
     "manager": "Isaac"
   },
@@ -4965,266 +4689,202 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "19-0078",
-    "project": "Office Depot Column Repair",
-    "address": "7500 142nd Ave E #400, Sumner",
-    "permit": "N/A",
-    "contractor": "Omega Riggers & Erectors",
-    "phone": "(36) 480-4914",
-    "manager": "Jeff"
-  },
-  {
     "job_no": "18-0870",
     "project": "Old Bartell's",
-    "address": "",
-    "Travel": "4140 E Marginal Way S, Seattle",
-    "permit": "2-Jan",
-    "contractor": "6694258-CN",
-    "phone": "Southcreek Construction LL",
-    "manager": "(425) 785-3998",
-    "": "Jeff"
+    "address": "4140 E Marginal Way S, Seattle",
+    "permit": "6694258-CN",
+    "contractor": "Johnson Tenant Improveme",
+    "phone": "(425) 785-3998",
+    "manager": "Jeff"
   },
   {
     "job_no": "18-0459",
     "project": "Olympic Middle School Reconstruction",
-    "address": "",
-    "Travel": "1825 K Street SE, Auburn",
-    "permit": 0,
-    "contractor": "BLDG18-0038",
-    "phone": "Absher Construction Compa",
-    "manager": "253-279-9282",
-    "": "Walter"
+    "address": "1825 K Street SE, Auburn",
+    "permit": "BLDG18-0038",
+    "contractor": "Absher Construction Compa",
+    "phone": "253-279-9282",
+    "manager": "Walter"
   },
   {
     "job_no": "16-0817a",
     "project": "Peralta Orthodontics - HVAC",
-    "address": "",
-    "Travel": "3916 California Ave SW, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6562709,
-    "phone": "WR Hanson, Inc.",
-    "manager": "(206) 719-1217",
-    "": "Isaac"
+    "address": "3916 California Ave SW, Seattle",
+    "permit": 6562709,
+    "contractor": "WR Hanson, Inc.",
+    "phone": "(206) 719-1217",
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0683",
     "project": "Peyree Residence",
-    "address": "",
-    "Travel": "6049 77th Avenue SE, Mercer Island",
-    "permit": "2-Jan",
-    "contractor": "1706-083",
-    "phone": "Gallagher Co.",
-    "manager": "(206) 730-8870",
-    "": "Isaac"
+    "address": "6049 77th Avenue SE, Mercer Island",
+    "permit": "1706-083",
+    "contractor": "Gallagher Co.",
+    "phone": "(206) 730-8870",
+    "manager": "Isaac"
   },
   {
     "job_no": "19-0014",
     "project": "Phair Residence (Desiree)",
-    "address": "",
-    "Travel": "7608 147th Ave NE, Redmond",
-    "permit": "2-Jan",
-    "contractor": "",
-    "phone": "Seismic Northwest, LP",
-    "manager": "(206) 899-7148",
-    "": "Isaac"
+    "address": "7608 147th Ave NE, Redmond",
+    "permit": "",
+    "contractor": "Seismic Northwest, LP",
+    "phone": "(206) 899-7148",
+    "manager": "Isaac"
   },
   {
     "job_no": "19-0057",
-    "project": "Pier 91 East Mooring System Maintenance",
-    "address": "",
-    "Travel": "2001 West Garfield Street, Seattle",
-    "permit": "2-Jan",
-    "contractor": "n/a",
-    "phone": "Port of Seattle Marine Maint",
-    "manager": "(253) 227-2114",
-    "": "Isaac"
+    "project": "Pier 91 East Mooring System Maintenance a",
+    "address": "2001 West Garfield Street, Seattle",
+    "permit": "n/a",
+    "contractor": "Port of Seattle Marine Maint",
+    "phone": "",
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0977",
     "project": "Pierce College",
-    "address": "",
-    "Travel": "9401 Farwest Drive SW, Lakewood",
-    "permit": "2-Jan",
-    "contractor": "",
-    "phone": "Plumb Signs, Inc.",
-    "manager": "(253) 414-8812",
-    "": "Jeff"
+    "address": "9401 Farwest Drive SW, Lakewood",
+    "permit": "",
+    "contractor": "Plumb Signs, Inc.",
+    "phone": "(253) 414-8812",
+    "manager": "Jeff"
   },
   {
     "job_no": "18-0764",
     "project": "Pigott Residence Garage",
-    "address": "",
-    "Travel": "1718 Palm Ave SW, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6566354,
-    "phone": "Ventana Construction, LLC",
-    "manager": "(206) 795-3829",
-    "": "Isaac"
-  },
-  {
-    "job_no": "19-0094",
-    "project": "Pinehurst Mixed Use (Northline)",
-    "address": "",
-    "Travel": "12510 & 12522 15th Ave NE, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6541734,
-    "phone": "PSW Real Estate",
-    "manager": "(509) 992-7529",
-    "": "Jeff"
+    "address": "1718 Palm Ave SW, Seattle",
+    "permit": 6566354,
+    "contractor": "Ventana Construction, LLC",
+    "phone": "(206) 795-3829",
+    "manager": "Isaac"
   },
   {
     "job_no": "16-0794",
     "project": "Pioneer Square Hotel Annex",
-    "address": "",
-    "Travel": "110 Alaskan Way South, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6088080,
-    "phone": "Venture General Contractin",
-    "manager": "(206) 939-2530",
-    "": "Isaac"
+    "address": "110 Alaskan Way South, Seattle",
+    "permit": 6088080,
+    "contractor": "Venture General Contracting",
+    "phone": "(206) 939-2530",
+    "manager": "Isaac"
   },
   {
     "job_no": "18-1001",
     "project": "Polish Nails Spa",
-    "address": "",
-    "Travel": "27061 Pacific Hwy S, Des Moines",
-    "permit": "2-Jan",
-    "contractor": "",
-    "phone": "Adekco1 LLC",
-    "manager": "(206) 412-1475",
-    "": "Jeff"
+    "address": "27061 Pacific Hwy S, Des Moines",
+    "permit": "",
+    "contractor": "Adekco1 LLC",
+    "phone": "(206) 412-1475",
+    "manager": "Jeff"
   },
   {
     "job_no": "18-0421",
     "project": "Ponnusamy Residence Garage",
-    "address": "",
-    "Travel": "3626 60th Avenue SW, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6578543,
-    "phone": "Pile King",
-    "manager": "",
-    "": "Isaac"
+    "address": "3626 60th Avenue SW, Seattle",
+    "permit": 6578543,
+    "contractor": "Pile King",
+    "phone": "",
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0951",
     "project": "Portage Bay Park (aka Fritz Hedges Waterw",
-    "address": "",
-    "Travel": "1101 - 1137 NE Boat Street, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6534351,
-    "phone": "Orion Marine Group",
-    "manager": "",
-    "": "Walter"
+    "address": "1101 - 1137 NE Boat Street, Seattle",
+    "permit": 6534351,
+    "contractor": "Orion Marine Group",
+    "phone": "",
+    "manager": "Walter"
   },
   {
     "job_no": "18-0801",
-    "project": "Precision Iron Works - Misc.",
-    "address": 2018,
-    "Travel": "102 Frontage Road S, Pacific",
-    "permit": "2-Jan",
+    "project": "Precision Iron Works - Misc.  2018",
+    "address": "102 Frontage Road S, Pacific",
+    "permit": "",
     "contractor": "",
     "phone": "",
-    "manager": "",
-    "": "Isaac"
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0740",
-    "project": "Precision Sheet Metal Fabricators Expansio",
-    "address": "",
-    "Travel": "10546 Aurora Avenue N, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6504882,
-    "phone": "SCL Enterprises, LLC",
-    "manager": "(206) 362-1195",
-    "": "Isaac"
+    "project": "Precision Sheet Metal Fabricators Expansion",
+    "address": "10546 Aurora Avenue N, Seattle",
+    "permit": 6504882,
+    "contractor": "SCL Enterprises, LLC",
+    "phone": "(206) 362-1195",
+    "manager": "Isaac"
   },
   {
     "job_no": "19-0009",
     "project": "Project Bellevue",
-    "address": "",
-    "Travel": "15118 SE 40th Place, Bellevue",
-    "permit": "2-Jan",
-    "contractor": "",
-    "phone": "JT Property Development",
-    "manager": "(206) 334-5819",
-    "": "Scott"
+    "address": "15118 SE 40th Place, Bellevue",
+    "permit": "",
+    "contractor": "JT Property Development",
+    "phone": "(206) 334-5819",
+    "manager": "Scott"
   },
   {
     "job_no": "18-0577",
     "project": "PSE South King Complex T.I. Phase II",
-    "address": "",
-    "Travel": "6905 S 228th Street, Kent",
-    "permit": "2-Jan",
-    "contractor": "CNST-2180830",
-    "phone": "Hodge Construction, Inc.",
-    "manager": "(425) 864-3669",
-    "": "Jeff"
+    "address": "6905 S 228th Street, Kent",
+    "permit": "CNST-2180830",
+    "contractor": "Hodge Construction, Inc.",
+    "phone": "(425) 864-3669",
+    "manager": "Jeff"
   },
   {
     "job_no": "18-0599",
     "project": "Queen Anne Elementary School",
-    "address": "",
-    "Travel": "2100 4th Avenue North, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6568320,
-    "phone": "Hensel Phelps",
-    "manager": "(321) 205-4159",
-    "": "Isaac"
+    "address": "2100 4th Avenue North, Seattle",
+    "permit": 6568320,
+    "contractor": "Hensel Phelps",
+    "phone": "(321) 205-4159",
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0933",
     "project": "Queen Anne Pool",
-    "address": "",
-    "Travel": "1920 1st Avenue West, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6616134,
-    "phone": "Biwell Construction",
-    "manager": "425-351-2669",
-    "": "Walter"
+    "address": "1920 1st Avenue West, Seattle",
+    "permit": 6616134,
+    "contractor": "Biwell Construction",
+    "phone": "425-351-2669",
+    "manager": "Walter"
   },
   {
     "job_no": "17-0694a",
     "project": "R&D Building - Third & Wall T.I., Suites 202",
-    "address": "",
-    "Travel": "3455 Thorndyke Avenue West, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6547696,
-    "phone": "3443, LLC",
-    "manager": "(206) 999-0814",
-    "": "Isaac"
+    "address": "3455 Thorndyke Avenue West, Seattle",
+    "permit": 6547696,
+    "contractor": "3443, LLC",
+    "phone": "(206) 999-0814",
+    "manager": "Isaac"
   },
   {
     "job_no": "18-1085",
     "project": "Rachel's Residence Remodel and Addition",
-    "address": "",
-    "Travel": "8525 31st Ave NW, Seattle",
-    "permit": "2-Jan",
-    "contractor": "6677152-CN",
-    "phone": "Armata Construction Servic",
-    "manager": "(206) 412-4515",
-    "": "Jeff"
+    "address": "8525 31st Ave NW, Seattle",
+    "permit": "6677152-CN",
+    "contractor": "Armata Construction Service",
+    "phone": "(206) 412-4515",
+    "manager": "Jeff"
   },
   {
     "job_no": "18-1043",
-    "project": "Rainier Bottling Plant - In Plane Masonry Sh",
-    "address": "",
-    "Travel": "5628 Airport Way South, Seattle",
-    "permit": "2-Jan",
-    "contractor": "",
-    "phone": "Finishing Touch Masonry &",
-    "manager": "",
-    "": "Jeff"
+    "project": "Rainier Bottling Plant - In Plane Masonry She",
+    "address": "5628 Airport Way South, Seattle",
+    "permit": "",
+    "contractor": "Finishing Touch Masonry &",
+    "phone": "",
+    "manager": "Jeff"
   },
   {
     "job_no": "18-0429",
     "project": "Rainier Court IV - West Apartments",
-    "address": "",
-    "Travel": "3616 34th Avenue South, Seattle",
-    "permit": "2-Jan",
-    "contractor": 6538406,
-    "phone": "Venture General Contractin",
-    "manager": "(206) 900-2530",
-    "": "Walter"
+    "address": "3616 34th Avenue South, Seattle",
+    "permit": 6538406,
+    "contractor": "Venture General Contracting",
+    "phone": "(206) 900-2530",
+    "manager": "Walter"
   },
   {
     "job_no": "17-0260a",
@@ -5294,7 +4954,7 @@
     "project": "Reade14 Townhomes - 2214",
     "address": "2214 14th Avenue South, Seattle",
     "permit": 6594703,
-    "contractor": "Arnon Construction Operati",
+    "contractor": "Arnon Construction Operatio",
     "phone": "(206) 353-8263",
     "manager": "Jeff"
   },
@@ -5302,7 +4962,7 @@
     "job_no": "18-0829",
     "project": "Renton Daycare",
     "address": "12616 Renton Avenue South, Renton",
-    "permit": "ADDC18-0183",
+    "permit": "ADD018-0183",
     "contractor": "RB & Sons Construction, LL",
     "phone": "(206) 799-5531",
     "manager": "Isaac"
@@ -5312,7 +4972,7 @@
     "project": "Ring Custom",
     "address": "4216 Shoreclub Drive, Mercer Island",
     "permit": "1706-292",
-    "contractor": "JayMarc Custom Homes, L",
+    "contractor": "JayMarc Custom Homes, LL",
     "phone": "(425) 417-5818",
     "manager": "Isaac"
   },
@@ -5353,15 +5013,6 @@
     "manager": "Walter"
   },
   {
-    "job_no": "19-0082",
-    "project": "Roewe Residence",
-    "address": "151 Ward Street, Seattle",
-    "permit": "6607581-CN",
-    "contractor": "TrueBuilders, Inc.",
-    "phone": "206-793-5289",
-    "manager": "Isaac"
-  },
-  {
     "job_no": "18-1073",
     "project": "Roque Residence Foundation",
     "address": "5212 104th St E, Tacoma",
@@ -5394,7 +5045,7 @@
     "address": "215 1st Avenue North, Seattle",
     "permit": 6583982,
     "contractor": "Stratford Co., LLC",
-    "phone": "(206) 234-4556",
+    "phone": "(206) 399-9600",
     "manager": "Isaac"
   },
   {
@@ -5407,17 +5058,8 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "19-0098",
-    "project": "Sage Apartments",
-    "address": "1710 NW 57th Street, Seattle",
-    "permit": "6621368-CN",
-    "contractor": "JMS Construction",
-    "phone": "(206) 474-6264",
-    "manager": "Isaac"
-  },
-  {
     "job_no": "13-0593c",
-    "project": "Sammamish High School Gateway Concess",
+    "project": "Sammamish High School Gateway Concessi",
     "address": "100 140th Avenue SE, Bellevue",
     "permit": "",
     "contractor": "Spee West Construction",
@@ -5498,7 +5140,7 @@
   },
   {
     "job_no": "17-0155b",
-    "project": "SCRI Building Cure (Lease Crutcher Lewis)",
+    "project": "SCRI Building Cure (Lease Crutcher Lewis) -",
     "address": "1920 Terry Avenue, Seattle",
     "permit": "",
     "contractor": "",
@@ -5516,7 +5158,7 @@
   },
   {
     "job_no": "19-0015",
-    "project": "Seattle Children's Clinic Bellevue - X-Ray R",
+    "project": "Seattle Children's Clinic Bellevue - X-Ray Re",
     "address": "1500 116th NE, Bellevue",
     "permit": "18 129804 BZ",
     "contractor": "Aldrich & Associates, Inc.",
@@ -5561,12 +5203,21 @@
   },
   {
     "job_no": "18-1084",
-    "project": "Seattle Pacific University - PT Tendon Repa",
+    "project": "Seattle Pacific University - PT Tendon Repai",
     "address": "36 Cremona Street, Bldg 6, Seattle",
     "permit": "6578680*",
     "contractor": "Arcon Tenant Improvement",
     "phone": "(425) 213-3306",
     "manager": "Jeff"
+  },
+  {
+    "job_no": "18-0597",
+    "project": "Seattle Pipe Trades - Renovation",
+    "address": "595 Monster Road SW, Suite 100, Renton",
+    "permit": "B180002231",
+    "contractor": "Bayley Construction",
+    "phone": "(206) 786-8247",
+    "manager": "Isaac"
   },
   {
     "job_no": "18-0934",
@@ -5578,19 +5229,9 @@
     "manager": "Walter"
   },
   {
-    "job_no": "19-0091",
-    "project": "Senegor Project",
-    "address": "1633 10th St W, Kirkland",
-    "permit": "BSF2018-00481",
-    "contractor": "Rainier Custom Homes",
-    "phone": "(425) 999-1262",
-    "manager": "Isaac"
-  },
-  {
     "job_no": "17-0801",
     "project": "Service Tunnel Renewal Project",
     "address": "SeaTac International Airport, SeaTac",
-    "Travel": 0,
     "permit": "",
     "contractor": "James W. Fowler Company",
     "phone": "(360) 286-4602",
@@ -5598,7 +5239,7 @@
   },
   {
     "job_no": "17-0801a",
-    "project": "Service Tunnel Renewal Project (JW Fowler",
+    "project": "Service Tunnel Renewal Project (JW Fowler)",
     "address": ", SeaTac",
     "permit": "",
     "contractor": "",
@@ -5610,7 +5251,7 @@
     "project": "Shi/Wang Residence",
     "address": "6031 77th Ave SE, Mercer Island",
     "permit": "1607-166",
-    "contractor": "JayMarc Custom Homes, L",
+    "contractor": "JayMarc Custom Homes, LL",
     "phone": "(425)444-2055",
     "manager": "Isaac"
   },
@@ -5658,15 +5299,6 @@
     "contractor": "Hayward Baker, Inc.",
     "phone": "(206) 419-9010",
     "manager": "Jeff"
-  },
-  {
-    "job_no": "19-0079",
-    "project": "Soft Surroundings",
-    "address": "3000 184th Street SW, #940, Lynnwood",
-    "permit": "BTl-019008-2018",
-    "contractor": "Horizon Retail Construction",
-    "phone": "(262) 865-7704",
-    "manager": "Walter"
   },
   {
     "job_no": "18-0854",
@@ -5727,7 +5359,7 @@
     "project": "Space X",
     "address": "22908 NE Alder Crest Drive, Redmond",
     "permit": "n/a",
-    "contractor": "Air Products and Chemicals",
+    "contractor": "Air Products and Chemicals,",
     "phone": "(360) 597-6357",
     "manager": "Jeff"
   },
@@ -5814,9 +5446,8 @@
   },
   {
     "job_no": "11-0593",
-    "project": "SR 99 Bored Tunnel Design Build [South Po",
+    "project": "SR 99 Bored Tunnel Design Build [South Por",
     "address": "Alaskan Way, Seattle",
-    "Travel": 0,
     "permit": "",
     "contractor": "Seattle Tunnel Partners",
     "phone": "(206) 228-6269",
@@ -5824,7 +5455,7 @@
   },
   {
     "job_no": "18-0918",
-    "project": "ST Mercer Island Follow On Work (73490-0",
+    "project": "ST Mercer Island Follow On Work (73490-00",
     "address": "NW corner of N Mercer Way & 76th, Mercer Isl",
     "permit": "N/A",
     "contractor": "Centennial contractors Ente",
@@ -6004,7 +5635,7 @@
   },
   {
     "job_no": "17-0772f",
-    "project": "Sunset Court Apartments - South Trash Enc",
+    "project": "Sunset Court Apartments - South Trash Encl",
     "address": "1158 Harrington Avenue NE, Renton",
     "permit": "B16006733",
     "contractor": "Walsh Construction Compa",
@@ -6067,7 +5698,7 @@
   },
   {
     "job_no": "18-0799",
-    "project": "Tangled Ride [Residence]",
+    "project": "Tangled Ride",
     "address": "6025 77th Ave SE, Mercer Island",
     "permit": "1801-104",
     "contractor": "Matthew King Construction,",
@@ -6138,7 +5769,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-01",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 01",
     "address": "9507 49th Ave West #1, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6147,7 +5778,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-02",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 02",
     "address": "9507 49th Ave West #2, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6156,7 +5787,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-03",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 03",
     "address": "9507 49th Ave West #3, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6165,7 +5796,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-04",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 04",
     "address": "9507 49th Ave West #4, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6174,7 +5805,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-05",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 05",
     "address": "9507 49th Ave West #5, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6183,7 +5814,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-06",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 06",
     "address": "9507 49th Ave West #6, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6192,7 +5823,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-07",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 07",
     "address": "9507 49th Ave West #7, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6201,7 +5832,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-08",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 08",
     "address": "9507 49th Ave West #8, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6210,7 +5841,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-09",
+    "job_no": "8-1017-0",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 09",
     "address": "9507 49th Ave West #9, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6219,7 +5850,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-10",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 10",
     "address": "9507 49th Ave West #10, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6228,7 +5859,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-11",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 11",
     "address": "9507 49th Ave West #11, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6237,7 +5868,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-12",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 12",
     "address": "9507 49th Ave West #12, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6246,7 +5877,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-13",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 13",
     "address": "9507 49th Ave West #13, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6255,7 +5886,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-14",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 14",
     "address": "9507 49th Ave West #14, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6264,7 +5895,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-15",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 15",
     "address": "9507 49th Ave West #15, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6273,7 +5904,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-16",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 16",
     "address": "9507 49th Ave West #16, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6282,7 +5913,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-17",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 17",
     "address": "9507 49th Ave West #17, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6291,7 +5922,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-18",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 18",
     "address": "9507 49th Ave West #18, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6300,7 +5931,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-19",
+    "job_no": "8-1017-1",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 19",
     "address": "9507 49th Ave West #19, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6309,7 +5940,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-20",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 20",
     "address": "9507 49th Ave West #20, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6318,7 +5949,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-21",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 21",
     "address": "9507 49th Ave West #21, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6327,7 +5958,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-22",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 22",
     "address": "9507 49th Ave West #22, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6336,7 +5967,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-23",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 23",
     "address": "9507 49th Ave West #23, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6345,7 +5976,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-24",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 24",
     "address": "9507 49th Ave West #24, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6354,7 +5985,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-25",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 25",
     "address": "9507 49th Ave West #25, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6363,7 +5994,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-26",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 26",
     "address": "9507 49th Ave West #26, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6372,7 +6003,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-27",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 27",
     "address": "9507 49th Ave West #27, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6381,7 +6012,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-28",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 28",
     "address": "9507 49th Ave West #28, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6390,7 +6021,7 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-29",
+    "job_no": "8-1017-2",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 29",
     "address": "9507 49th Ave West #29, Mukilteo",
     "permit": "MFR-REPAIR-201",
@@ -6399,22 +6030,13 @@
     "manager": "Isaac"
   },
   {
-    "job_no": "18-1017-30",
+    "job_no": "8-1017-3",
     "project": "The Elliot at Mukilteo Stairs - Bldg. 30",
     "address": "9507 49th Ave West #30, Mukilteo",
     "permit": "MFR-REPAIR-201",
     "contractor": "BKB Paragon NW, LLC",
     "phone": "(214) 334-6071",
     "manager": "Isaac"
-  },
-  {
-    "job_no": "19-0062",
-    "project": "The Flyway Apartments",
-    "address": "6718 NE 181st Street, Kenmore",
-    "permit": "BLD18-0392",
-    "contractor": "GenCap Construction Corp.",
-    "phone": "(425) 324-1429",
-    "manager": "Jeff"
   },
   {
     "job_no": "16-0386a",
@@ -6428,7 +6050,7 @@
   {
     "job_no": "17-0888a",
     "project": "The Landing at Bothell Landing - Bldg. A1 &",
-    "address": "??9614 NE 183rd Street, Bothell",
+    "address": "9614 NE 183rd Street, Bothell",
     "permit": "BMF2017-16659",
     "contractor": "GenCap Construction Corp.",
     "phone": "(425) 495-5936",
@@ -6504,15 +6126,6 @@
     "permit": "BNR2017-17902",
     "contractor": "GenCap Construction Corp.",
     "phone": "",
-    "manager": "Jeff"
-  },
-  {
-    "job_no": "19-0067",
-    "project": "The Ridge Townhomes",
-    "address": "22328 88th Ave S, Kent",
-    "permit": "CNST-2181273",
-    "contractor": "Polygon Northwest",
-    "phone": "(425) 766-9248",
     "manager": "Jeff"
   },
   {
@@ -6601,7 +6214,7 @@
     "project": "Tiny Dancer",
     "address": "3855 21st Avenue SW, Seattle",
     "permit": 6550850,
-    "contractor": "Greenstream Investments,",
+    "contractor": "Greenstream Investments, L",
     "phone": "360-770-4000",
     "manager": "Isaac"
   },
@@ -6652,7 +6265,7 @@
   },
   {
     "job_no": "18-0384a",
-    "project": "Two Pine - Interior and Elevator Improveme",
+    "project": "Two Pine - Interior and Elevator Improvemen",
     "address": "1601 2nd Avenue, Seattle",
     "permit": "6644824-CN",
     "contractor": "Rafn Company, Inc.",
@@ -6759,29 +6372,20 @@
     "manager": "Anthony"
   },
   {
-    "job_no": "19-0086",
-    "project": "UW New Burke Museum (Phase Three)",
-    "address": "4300 15th Avenue NE, Seattle",
-    "permit": "",
-    "contractor": "Skanska USA Commercial",
-    "phone": "(206) 473-9420",
-    "manager": "Anthony"
-  },
-  {
     "job_no": "17-0034",
-    "project": "UW North Campus Building B (Madrona Hal",
+    "project": "UW North Campus Building B (Madrona Hall",
     "address": "4320 Whitman Lane NE, Seattle",
     "permit": 6495139,
-    "contractor": "WG Clark Construction Co",
+    "contractor": "WG Clark Construction Com",
     "phone": "",
     "manager": "Anthony"
   },
   {
     "job_no": "17-0010",
-    "project": "UW North Campus Building C (McCarty Hall",
+    "project": "UW North Campus Building C (McCarty Hall)",
     "address": "4318 Whitman CT NE, Seattle",
     "permit": 6495140,
-    "contractor": "WG Clark Construction Co",
+    "contractor": "WG Clark Construction Com",
     "phone": "",
     "manager": "Anthony"
   },
@@ -6790,23 +6394,23 @@
     "project": "UW North Campus Building D (Willow Hall)",
     "address": "4318 Whitman Ct E, Seattle",
     "permit": 6467051,
-    "contractor": "WG Clark Construction Co",
+    "contractor": "WG Clark Construction Com",
     "phone": "",
     "manager": "Anthony"
   },
   {
     "job_no": "18-0084",
-    "project": "UW North Campus RDH Testing (all buildin",
+    "project": "UW North Campus RDH Testing (all building",
     "address": "Various, Seattle",
     "permit": "n/a",
-    "contractor": "WG Clark Construction Co",
+    "contractor": "WG Clark Construction Com",
     "phone": "",
     "manager": "Anthony"
   },
   {
     "job_no": "18-1050",
     "project": "UW Parrington Hall - Brick Shear Testing",
-    "address": "4105 George Washington Lane Northeast, Sea",
+    "address": "4105 George Washington Lane Northeast, Seat",
     "permit": "n/a",
     "contractor": "",
     "phone": "(206) 375-3781",
@@ -6823,7 +6427,7 @@
   },
   {
     "job_no": "17-0199",
-    "project": "VA Puget Sound Upgrade Electrical Distribu",
+    "project": "VA Puget Sound Upgrade Electrical Distributi",
     "address": "1660 S. Columbian Way, Seattle",
     "permit": "663-15-102",
     "contractor": "Helix Electric, Inc.",
@@ -6903,15 +6507,6 @@
     "manager": "Walter"
   },
   {
-    "job_no": "19-0097",
-    "project": "Waldhaus",
-    "address": "921 38th Ave, Seattle",
-    "permit": "6670760-CN",
-    "contractor": "ABKJ, Inc.",
-    "phone": "(206) 890-6335 &",
-    "manager": "Isaac"
-  },
-  {
     "job_no": "19-0061",
     "project": "Walgreens 6259",
     "address": "9456 16th Ave SW, Seattle",
@@ -6932,7 +6527,7 @@
   {
     "job_no": "18-0953",
     "project": "Washington Cement Masons Apprenticeship",
-    "address": "6737 Corson Avenue South, Building D, Seattl",
+    "address": "6737 Corson Avenue South, Building D, Seattle",
     "permit": "N/A",
     "contractor": "",
     "phone": "",
@@ -6975,28 +6570,19 @@
     "manager": "Jeff"
   },
   {
-    "job_no": "19-0095",
-    "project": "Wells Fargo Seattle Tower Re-Stack",
-    "address": "999 3rd Avenue, Seattle",
-    "permit": "6646969-CN",
-    "contractor": "Swinerton Builders, Inc.",
-    "phone": "",
-    "manager": "Jeff"
-  },
-  {
     "job_no": "17-0528",
     "project": "Werner",
     "address": "3046 17th Ave W, Seattle",
     "permit": 6509754,
-    "contractor": "Kamin Excavation/Commer",
+    "contractor": "Kamin Excavation/Commerc",
     "phone": "(206) 753-9891",
     "manager": "Isaac"
   },
   {
     "job_no": "18-0888",
-    "project": "West Lake Kathleen Water Main Improvem",
+    "project": "West Lake Kathleen Water Main Improveme",
     "address": "various*(see map), Renton",
-    "permit": "17911 128",
+    "permit": 17911128,
     "contractor": "RW Scott Construction",
     "phone": "(253)508-2741",
     "manager": "Isaac"
@@ -7294,14 +6880,14 @@
     "project": "Willows Run Lobby",
     "address": "9840 Willows Run Road, Redmond",
     "permit": "BLDG-2018-0537",
-    "contractor": "Osborne Construction Com",
+    "contractor": "Osborne Construction Comp",
     "phone": "(208) 308-1204",
     "manager": "Isaac"
   },
   {
     "job_no": "18-1033",
     "project": "Winsome Trading Inc. Addition",
-    "address": "16111 Woodinville-Redmond Rd NE, Woodinvi",
+    "address": "16111 Woodinville-Redmond Rd NE, Woodinvill",
     "permit": "BLD17100",
     "contractor": "Metropolitan Contracting",
     "phone": "206-941-0416",
@@ -7395,15 +6981,6 @@
     "permit": "BLD18-00210",
     "contractor": "PVF Construction",
     "phone": "",
-    "manager": "Isaac"
-  },
-  {
-    "job_no": "19-0077",
-    "project": "Zillow 42nd Floor Assembly",
-    "address": "1301 2nd Ave Floor 42, Seattle",
-    "permit": "6692226-CN",
-    "contractor": "Unimark Construction Grou",
-    "phone": "(206) 786-5371",
     "manager": "Isaac"
   }
 ]
